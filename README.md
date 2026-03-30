@@ -3,12 +3,12 @@
 Sistema em Python para controle financeiro empresarial com armazenamento em JSON e geração automática de relatórios estatísticos e gráficos.
 
 ## ✨ Funcionalidades
-**Gestão de Emrpesas:** Cadastro e remoção de empresas.
-**Controle de Fluxo:** Registro de gastos com tratamento de valores (R$ ou internacional).
-**Persistência de dados:** Armazenamento seguro em arquivo JSON.
-**Análise de Dados com Pandas:** Soma total e média por empresa.
-**Menu de Relatórios:** Geração sob demanda de gráficos de Barras, Linhas e Rosca (Donut Chart).
-**Exportação:** Salvamento automático dos relatórios em formato `.png`.
+* **Gestão de Emrpesas:** Cadastro e remoção de empresas.
+* **Controle de Fluxo:** Registro de gastos com tratamento de valores (R$ ou internacional).
+* **Persistência de dados:** Armazenamento seguro em arquivo JSON.
+* **Análise de Dados com Pandas:** Soma total e média por empresa.
+* **Menu de Relatórios:** Geração sob demanda de gráficos de Barras, Linhas e Rosca (Donut Chart).
+* **Exportação:** Salvamento automático dos relatórios em formato `.png`.
 
 ## 📊 Relatórios Gerados
 | Comparação (Barras) | Tendência (Linhas) | Distribuição (Rosca) |
